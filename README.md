@@ -7,4 +7,4 @@ it is very simple... first start with this code
 and then ``` <script>
     const epcFileContent = '//whatever code you want';
     processEpcContent(epcFileContent);
-  </script>
+  </script>```
